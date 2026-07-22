@@ -1,10 +1,5 @@
 # Olá, eu sou o João Pedro! 👋
 
-<div align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub de João Pedro" height="180px" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas por João Pedro" height="180px" />
-</div>
-
 ## 🚀 Sobre Mim
 Olá! Meu nome é João Pedro (`ZxJao`) e sou um desenvolvedor Front-End em formação focado em criar interfaces modernas, responsivas e de alto impacto visual. 
 
@@ -26,7 +21,7 @@ Atualmente focado no ecossistema de desenvolvimento web:
 ## ⚡ Conecte-se Comigo
 Estou sempre aberto a novas conexões, troca de conhecimentos ou oportunidades:
 
-[![Meu Portfólio](https://shields.io)](https://github.com)
+[![Meu Portfólio](https://shields.io)](https://[github.com](https://github.com/ZxJao/Portifolio))
 [![WhatsApp](https://shields.io)](https://wa.me)
 [![E-mail](https://shields.io)](mailto:joaopedroribeiro598@gmail.com)
 
