@@ -75,8 +75,6 @@ O principal objetivo deste projeto é demonstrar minhas habilidades em desenvolv
 ---
 
 ## 👨‍💻 Autor
-
-Desenvolvido por João Pedro.
-
 ```
+Desenvolvido por João Pedro.
 ```
