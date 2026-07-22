@@ -1,2 +1,36 @@
-# Portifolio
-Olá! Sou João Pedro, desenvolvedor Front-End em formação, apaixonado por tecnologia e desenvolvimento web. Trabalho com HTML5, CSS3, JavaScript e React, criando projetos que me ajudam a aprimorar minhas habilidades e construir interfaces modernas, responsivas e funcionais.
+# Olá, eu sou o João Pedro! 👋
+
+<div align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub de João Pedro" height="180px" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas por João Pedro" height="180px" />
+</div>
+
+## 🚀 Sobre Mim
+Olá! Meu nome é João Pedro (`ZxJao`) e sou um desenvolvedor Front-End em formação focado em criar interfaces modernas, responsivas e de alto impacto visual. 
+
+Atualmente, dedico meu tempo dominando tecnologias essenciais da Web para transformar ideias criativas em códigos limpos, performáticos e funcionais. Acredito que a melhor forma de evoluir é criando aplicações reais e resolvendo desafios práticos no dia a dia.
+
+---
+
+## 🛠️ Minhas Skills
+Atualmente focado no ecossistema de desenvolvimento web:
+
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+
+---
+
+## ⚡ Conecte-se Comigo
+Estou sempre aberto a novas conexões, troca de conhecimentos ou oportunidades:
+
+[![Meu Portfólio](https://shields.io)](https://github.com)
+[![WhatsApp](https://shields.io)](https://wa.me)
+[![E-mail](https://shields.io)](mailto:joaopedroribeiro598@gmail.com)
+
+---
+<div align="center">
+  <p><i>"Transformando linhas de código em experiências visuais modernas."</i> ⚡</p>
+</div>
